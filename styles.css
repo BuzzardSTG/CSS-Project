@@ -30,6 +30,13 @@
     cursor: progress;
 }
 
-#transform_italic {
+#transform_lc {
     text-transform: lowercase;
+}
+
+.hdres2 {
+    padding: 10px;
+    border-width: 2px;
+    border-radius: 25px;
+
 }
